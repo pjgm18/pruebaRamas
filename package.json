@@ -1,0 +1,19 @@
+{
+  "name": "pruebaramas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjgm18/pruebaRamas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjgm18/pruebaRamas/issues"
+  },
+  "homepage": "https://github.com/pjgm18/pruebaRamas#readme"
+}
